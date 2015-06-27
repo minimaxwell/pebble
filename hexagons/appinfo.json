@@ -1,0 +1,24 @@
+{
+  "uuid": "53904349-9ac6-4c78-a61e-8cbb166d7e80",
+  "shortName": "hexagons",
+  "longName": "hexagons",
+  "companyName": "Minimaxwell",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [{
+        "characterRegex": "[0-9 ]",
+        "type": "font",
+        "name": "ROBOTO_BOLD_35",
+        "file": "Roboto-Bold.ttf"
+      }]
+  }
+}
